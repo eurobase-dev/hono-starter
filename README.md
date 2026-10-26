@@ -24,5 +24,6 @@ npm run dev
 ## Learn more
 
 - [Getting started](https://eurobase.dev/docs/getting-started)
+- [Deploy a Hono API: step-by-step guide](https://eurobase.dev/docs/guides/hono)
 - [How Hono runs on Eurobase](https://eurobase.dev/docs/workers)
 - [Plans and limits](https://eurobase.dev/docs/plans): the Free plan costs nothing.
